@@ -6,7 +6,7 @@ const Home = () => {
       {/* Hero Section */}
       <section className="bg-green-700 text-white py-10">
         <div className="container mx-auto text-center">
-          <h1 className="text-4xl font-bold">Welcome to Nature Farms</h1>
+          <h1 className="text-4xl font-bold">Welcome to Natural Farms</h1>
           <p className="mt-4 text-lg">
             Experience the purity of nature with our farm-fresh and natural products.
           </p>
@@ -66,9 +66,9 @@ const Home = () => {
       {/* About Section */}
       <section className="py-12 bg-[#E8F9E9]">
         <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold text-gray-800 mb-8">Why Choose Nature Farms?</h2>
+          <h2 className="text-3xl font-bold text-gray-800 mb-8">Why Choose Natural Farms?</h2>
           <p className="text-gray-600 leading-loose mx-auto max-w-3xl">
-            At Nature Farms, we are committed to providing fresh, natural, and organic products
+            At Natural Farms, we are committed to providing fresh, natural, and organic products
             sourced directly from our farms. We follow sustainable farming practices that respect
             both the environment and the health of our consumers. From fresh vegetables to dairy
             products, we ensure that everything we offer is of the highest quality, chemical-free,
@@ -80,7 +80,7 @@ const Home = () => {
       {/* Call to Action */}
       <section className="py-12 bg-green-700 text-white">
         <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold">Join the Nature Farms Community</h2>
+          <h2 className="text-3xl font-bold">Join the Natural Farms Community</h2>
           <p className="mt-4 text-lg">
             Discover the benefits of healthy and sustainable food with our wide range of natural products.
           </p>

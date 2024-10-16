@@ -7,7 +7,7 @@ const About = () => {
       {/* About Hero Section */}
       <section className="bg-green-700 text-white py-10">
         <div className="container mx-auto text-center">
-          <h1 className="text-4xl font-bold">About Nature Farms</h1>
+          <h1 className="text-4xl font-bold">About Natural Farms</h1>
           <p className="mt-4 text-lg">
             Dedicated to providing the freshest and healthiest products,
             straight from nature to your home.

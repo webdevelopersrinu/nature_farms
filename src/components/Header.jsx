@@ -14,7 +14,7 @@ const Header = () => {
     <header className="bg-[#F3FAF2] p-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-[#29A060] text-2xl font-bold">
-          <Link to="/">Nature Farms</Link>
+          <Link to="/">Natural Farms</Link>
         </div>
         <nav className="hidden md:flex space-x-6 text-white">
           <Link
